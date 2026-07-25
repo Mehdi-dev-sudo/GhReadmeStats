@@ -7,8 +7,8 @@
   role="img"
   aria-labelledby="descId"
 >
-  <title id="titleId">Mehdi Khorshidi far's GitHub Stats, Rank: B (55th percentile)</title>
-  <desc id="descId">Total Stars Earned: 22, Total Commits: 1336, Total PRs: 77, Total Issues: 1, Contributed to (last year): 1</desc>
+  <title id="titleId">Mehdi Khorshidi far's GitHub Stats, Rank: A- (33th percentile)</title>
+  <desc id="descId">Total Stars Earned: 212, Total Commits: 1579, Total PRs: 85, Total Issues: 1, Contributed to (last year): 1</desc>
   <style>
     
     .header {
@@ -66,7 +66,7 @@
     }
     @keyframes rankAnimation {
       from { stroke-dashoffset: 251.32741228718345; }
-      to { stroke-dashoffset: 138.78582791916182; }
+      to { stroke-dashoffset: 83.67221907327655; }
     }
   </style>
 
@@ -99,7 +99,7 @@
       <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
       <circle class="rank-circle" cx="-10" cy="8" r="40" />
       <g class="rank-text">
-        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">B</text>
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">A-</text>
       </g>
     </g>
     <svg x="0" y="0">
@@ -107,21 +107,21 @@
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
       
       <text class="stat bold"  y="12.5">Total Stars Earned:</text>
-      <text class="stat bold" x="199.01" y="12.5" data-testid="stars">22</text>
+      <text class="stat bold" x="199.01" y="12.5" data-testid="stars">212</text>
     </g>
   </g>
 <g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
       <text class="stat bold"  y="12.5">Total Contributions:</text>
-      <text class="stat bold" x="199.01" y="12.5" data-testid="commits">1.3K</text>
+      <text class="stat bold" x="199.01" y="12.5" data-testid="commits">1.6K</text>
     </g>
   </g>
 <g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       
       <text class="stat bold"  y="12.5">Total PRs:</text>
-      <text class="stat bold" x="199.01" y="12.5" data-testid="prs">77</text>
+      <text class="stat bold" x="199.01" y="12.5" data-testid="prs">85</text>
     </g>
   </g>
 <g transform="translate(0, 75)">
