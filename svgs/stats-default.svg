@@ -7,8 +7,8 @@
   role="img"
   aria-labelledby="descId"
 >
-  <title id="titleId">Mehdi Khorshidi far's GitHub Stats, Rank: A- (33th percentile)</title>
-  <desc id="descId">Total Stars Earned: 212, Total Commits: 1579, Total PRs: 85, Total Issues: 1, Contributed to (last year): 1</desc>
+  <title id="titleId">Mehdi Khorshidi far's GitHub Stats, Rank: A- (31th percentile)</title>
+  <desc id="descId">Total Stars Earned: 307, Total Commits: 1580, Total PRs: 85, Total Issues: 1, Contributed to (last year): 1</desc>
   <style>
     
     .header {
@@ -66,7 +66,7 @@
     }
     @keyframes rankAnimation {
       from { stroke-dashoffset: 251.32741228718345; }
-      to { stroke-dashoffset: 83.67221907327655; }
+      to { stroke-dashoffset: 78.12441260257037; }
     }
   </style>
 
@@ -107,7 +107,7 @@
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
       
       <text class="stat bold"  y="12.5">Total Stars Earned:</text>
-      <text class="stat bold" x="199.01" y="12.5" data-testid="stars">212</text>
+      <text class="stat bold" x="199.01" y="12.5" data-testid="stars">307</text>
     </g>
   </g>
 <g transform="translate(0, 25)">
